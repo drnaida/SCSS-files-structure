@@ -1,0 +1,22 @@
+.card {
+  /* Card styles */
+  &__front {
+    /* Front part styles */
+    &--img {
+      /* Card image */
+    }
+    &--rotate-button {
+      /* Rotate image button */
+    }
+    &--word-block {
+      /* Div with word */
+    }
+  }
+
+  &__back {
+    /* Back part styles */
+    &--img {
+      /* Card image on back side of the card */
+    }
+  }
+}
