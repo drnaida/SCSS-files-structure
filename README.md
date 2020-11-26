@@ -1,6 +1,6 @@
 # SCSS-files-structure
 
-# Folder abstracts
+# Abstracts
 
 
 ## Functions 
