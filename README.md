@@ -2,6 +2,7 @@
 
 # Folder abstracts
 
+
 ## Functions 
 It's a file for SCSS/SASS functions.
 Link: https://sass-lang.com/documentation/at-rules/function 
